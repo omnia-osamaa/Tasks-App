@@ -1,16 +1,21 @@
-# flutter_application_1
+# Tasky App
 
-A new Flutter project.
+Tasky - Task Management App
 
-## Getting Started
+Tasky is a simple and easy-to-use task management app that helps you organize your daily tasks and stay productive.
 
-This project is a starting point for a Flutter application.
+Key Features
 
-A few resources to get you started if this is your first Flutter project:
+1-Add Tasks: Quickly create tasks with titles, details, and due dates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2-Set Priorities: Mark tasks as High, Medium, or Low priority to manage your workflow efficiently.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3-Mark Completed: Check off tasks when finished to keep track of your progress.
+
+4-Edit Tasks: Update task details anytime without hassle.
+
+5-Search Tasks: Easily find specific tasks using the search feature.
+
+6-Organize by Date: View tasks sorted by their due dates for better planning.
+
+Tasky is perfect for anyone who wants to stay organized, manage time effectively, and never forget important tasks.
